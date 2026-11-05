@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "depclaims"
+version = "0.1.0"
+description = "Score published cancer-cell growth claims against DepMap CRISPR and RNAi screens of the same cell line"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = ["pandas>=2.0", "numpy>=1.24", "pyarrow>=12"]
+
+[project.scripts]
+depclaims = "depclaims.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

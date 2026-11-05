@@ -1,0 +1,47 @@
+{
+ "title": "depclaims: published cancer cell growth claims calibrated against genome-wide screens",
+ "upload_type": "software",
+ "version": "1.0.0",
+ "description": "An atlas of 13,610 published claims that silencing a gene reduces the growth of a named human cancer cell line, each scored against DepMap CRISPR and RNA-interference screens and gene expression of the same gene in the same line, with all 17,920 extracted statements, a per-gene summary, the depclaims Python package that scores any such claim, and the analysis code.",
+ "creators": [
+  {
+   "name": "Xu, Zhida",
+   "affiliation": "Hubei University of Medicine",
+   "orcid": "0009-0003-5277-7161"
+  },
+  {
+   "name": "Cheng, Junhua",
+   "affiliation": "Hubei University of Medicine"
+  },
+  {
+   "name": "Pan, Mengjie",
+   "affiliation": "Taihe Hospital, Hubei University of Medicine"
+  },
+  {
+   "name": "Chen, Xiaping",
+   "affiliation": "Taihe Hospital, Hubei University of Medicine"
+  },
+  {
+   "name": "Luo, Jie",
+   "affiliation": "Taihe Hospital, Hubei University of Medicine"
+  },
+  {
+   "name": "Zhu, Xiaohu",
+   "affiliation": "Taihe Hospital, Hubei University of Medicine",
+   "orcid": "0009-0006-7166-6880"
+  },
+  {
+   "name": "Guo, Xingrong",
+   "affiliation": "Taihe Hospital, Hubei University of Medicine"
+  }
+ ],
+ "license": "MIT",
+ "keywords": [
+  "cancer cell lines",
+  "gene dependency",
+  "CRISPR screens",
+  "RNA interference",
+  "DepMap",
+  "literature mining"
+ ]
+}

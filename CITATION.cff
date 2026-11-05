@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use the depclaims atlas or software, please cite it as below."
+title: "depclaims: published cancer cell growth claims calibrated against genome-wide screens"
+version: 1.0.0
+date-released: 2026-11-05
+license: MIT
+repository-code: "https://github.com/zxu69461-creator/depclaims"
+authors:
+  - family-names: Xu
+    given-names: Zhida
+    orcid: "https://orcid.org/0009-0003-5277-7161"
+    affiliation: "Hubei University of Medicine"
+  - family-names: Cheng
+    given-names: Junhua
+    affiliation: "Hubei University of Medicine"
+  - family-names: Pan
+    given-names: Mengjie
+    affiliation: "Taihe Hospital, Hubei University of Medicine"
+  - family-names: Chen
+    given-names: Xiaping
+    affiliation: "Taihe Hospital, Hubei University of Medicine"
+  - family-names: Luo
+    given-names: Jie
+    affiliation: "Taihe Hospital, Hubei University of Medicine"
+  - family-names: Zhu
+    given-names: Xiaohu
+    orcid: "https://orcid.org/0009-0006-7166-6880"
+    affiliation: "Taihe Hospital, Hubei University of Medicine"
+  - family-names: Guo
+    given-names: Xingrong
+    affiliation: "Taihe Hospital, Hubei University of Medicine"

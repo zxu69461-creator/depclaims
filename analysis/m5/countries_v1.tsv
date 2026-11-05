@@ -1,0 +1,373 @@
+alias	country	kind
+Afghanistan	Afghanistan	country
+Albania	Albania	country
+Algeria	Algeria	country
+Andorra	Andorra	country
+Angola	Angola	country
+Argentina	Argentina	country
+Armenia	Armenia	country
+Australia	Australia	country
+Austria	Austria	country
+Azerbaijan	Azerbaijan	country
+Bahamas	Bahamas	country
+Bahrain	Bahrain	country
+Bangladesh	Bangladesh	country
+Barbados	Barbados	country
+Belarus	Belarus	country
+Belgium	Belgium	country
+Belize	Belize	country
+Benin	Benin	country
+Bhutan	Bhutan	country
+Bolivia	Bolivia	country
+Bosnia and Herzegovina	Bosnia and Herzegovina	country
+Botswana	Botswana	country
+Brazil	Brazil	country
+Brunei	Brunei	country
+Bulgaria	Bulgaria	country
+Burkina Faso	Burkina Faso	country
+Burundi	Burundi	country
+Cambodia	Cambodia	country
+Cameroon	Cameroon	country
+Canada	Canada	country
+Cape Verde	Cape Verde	country
+Central African Republic	Central African Republic	country
+Chad	Chad	country
+Chile	Chile	country
+China	China	country
+Colombia	Colombia	country
+Comoros	Comoros	country
+Congo	Congo	country
+Costa Rica	Costa Rica	country
+Croatia	Croatia	country
+Cuba	Cuba	country
+Cyprus	Cyprus	country
+Czech Republic	Czech Republic	country
+Denmark	Denmark	country
+Djibouti	Djibouti	country
+Dominican Republic	Dominican Republic	country
+Ecuador	Ecuador	country
+Egypt	Egypt	country
+El Salvador	El Salvador	country
+Equatorial Guinea	Equatorial Guinea	country
+Eritrea	Eritrea	country
+Estonia	Estonia	country
+Eswatini	Eswatini	country
+Ethiopia	Ethiopia	country
+Fiji	Fiji	country
+Finland	Finland	country
+France	France	country
+Gabon	Gabon	country
+Gambia	Gambia	country
+Georgia	Georgia	country
+Germany	Germany	country
+Ghana	Ghana	country
+Greece	Greece	country
+Grenada	Grenada	country
+Guatemala	Guatemala	country
+Guinea	Guinea	country
+Guinea-Bissau	Guinea-Bissau	country
+Guyana	Guyana	country
+Haiti	Haiti	country
+Honduras	Honduras	country
+Hong Kong	Hong Kong	country
+Hungary	Hungary	country
+Iceland	Iceland	country
+India	India	country
+Indonesia	Indonesia	country
+Iran	Iran	country
+Iraq	Iraq	country
+Ireland	Ireland	country
+Israel	Israel	country
+Italy	Italy	country
+Ivory Coast	Ivory Coast	country
+Jamaica	Jamaica	country
+Japan	Japan	country
+Jordan	Jordan	country
+Kazakhstan	Kazakhstan	country
+Kenya	Kenya	country
+Kosovo	Kosovo	country
+Kuwait	Kuwait	country
+Kyrgyzstan	Kyrgyzstan	country
+Laos	Laos	country
+Latvia	Latvia	country
+Lebanon	Lebanon	country
+Lesotho	Lesotho	country
+Liberia	Liberia	country
+Libya	Libya	country
+Liechtenstein	Liechtenstein	country
+Lithuania	Lithuania	country
+Luxembourg	Luxembourg	country
+Macao	Macao	country
+Madagascar	Madagascar	country
+Malawi	Malawi	country
+Malaysia	Malaysia	country
+Maldives	Maldives	country
+Mali	Mali	country
+Malta	Malta	country
+Mauritania	Mauritania	country
+Mauritius	Mauritius	country
+Mexico	Mexico	country
+Moldova	Moldova	country
+Monaco	Monaco	country
+Mongolia	Mongolia	country
+Montenegro	Montenegro	country
+Morocco	Morocco	country
+Mozambique	Mozambique	country
+Myanmar	Myanmar	country
+Namibia	Namibia	country
+Nepal	Nepal	country
+Netherlands	Netherlands	country
+New Zealand	New Zealand	country
+Nicaragua	Nicaragua	country
+Niger	Niger	country
+Nigeria	Nigeria	country
+North Korea	North Korea	country
+North Macedonia	North Macedonia	country
+Norway	Norway	country
+Oman	Oman	country
+Pakistan	Pakistan	country
+Palestine	Palestine	country
+Panama	Panama	country
+Papua New Guinea	Papua New Guinea	country
+Paraguay	Paraguay	country
+Peru	Peru	country
+Philippines	Philippines	country
+Poland	Poland	country
+Portugal	Portugal	country
+Puerto Rico	Puerto Rico	country
+Qatar	Qatar	country
+Romania	Romania	country
+Russia	Russia	country
+Rwanda	Rwanda	country
+Saudi Arabia	Saudi Arabia	country
+Senegal	Senegal	country
+Serbia	Serbia	country
+Seychelles	Seychelles	country
+Sierra Leone	Sierra Leone	country
+Singapore	Singapore	country
+Slovakia	Slovakia	country
+Slovenia	Slovenia	country
+Somalia	Somalia	country
+South Africa	South Africa	country
+South Korea	South Korea	country
+South Sudan	South Sudan	country
+Spain	Spain	country
+Sri Lanka	Sri Lanka	country
+Sudan	Sudan	country
+Suriname	Suriname	country
+Sweden	Sweden	country
+Switzerland	Switzerland	country
+Syria	Syria	country
+Taiwan	Taiwan	country
+Tajikistan	Tajikistan	country
+Tanzania	Tanzania	country
+Thailand	Thailand	country
+Togo	Togo	country
+Trinidad and Tobago	Trinidad and Tobago	country
+Tunisia	Tunisia	country
+Turkey	Turkey	country
+Turkmenistan	Turkmenistan	country
+Uganda	Uganda	country
+Ukraine	Ukraine	country
+United Arab Emirates	United Arab Emirates	country
+United Kingdom	United Kingdom	country
+United States	United States	country
+Uruguay	Uruguay	country
+Uzbekistan	Uzbekistan	country
+Venezuela	Venezuela	country
+Vietnam	Vietnam	country
+Yemen	Yemen	country
+Zambia	Zambia	country
+Zimbabwe	Zimbabwe	country
+USA	United States	alias
+U.S.A.	United States	alias
+U.S.A	United States	alias
+United States of America	United States	alias
+U.S.	United States	alias
+US	United States	alias
+UK	United Kingdom	alias
+U.K.	United Kingdom	alias
+England	United Kingdom	alias
+Scotland	United Kingdom	alias
+Wales	United Kingdom	alias
+Northern Ireland	United Kingdom	alias
+Great Britain	United Kingdom	alias
+P.R. China	China	alias
+PR China	China	alias
+P. R. China	China	alias
+People's Republic of China	China	alias
+Peoples Republic of China	China	alias
+P.R.China	China	alias
+PRC	China	alias
+Korea	South Korea	alias
+Republic of Korea	South Korea	alias
+Korea (South)	South Korea	alias
+S. Korea	South Korea	alias
+Korea, Republic of	South Korea	alias
+Democratic People's Republic of Korea	North Korea	alias
+DPRK	North Korea	alias
+Taiwan, ROC	Taiwan	alias
+Republic of China (Taiwan)	Taiwan	alias
+Taiwan ROC	Taiwan	alias
+Hong Kong SAR	Hong Kong	alias
+Hong Kong, China	Hong Kong	alias
+HKSAR	Hong Kong	alias
+Macau	Macao	alias
+Macao SAR	Macao	alias
+Russian Federation	Russia	alias
+Islamic Republic of Iran	Iran	alias
+Iran (Islamic Republic of)	Iran	alias
+The Netherlands	Netherlands	alias
+Holland	Netherlands	alias
+Czechia	Czech Republic	alias
+Türkiye	Turkey	alias
+Turkiye	Turkey	alias
+Côte d'Ivoire	Ivory Coast	alias
+Cote d'Ivoire	Ivory Coast	alias
+Viet Nam	Vietnam	alias
+Syrian Arab Republic	Syria	alias
+Lao PDR	Laos	alias
+United Republic of Tanzania	Tanzania	alias
+Democratic Republic of the Congo	Congo	alias
+DR Congo	Congo	alias
+DRC	Congo	alias
+Brunei Darussalam	Brunei	alias
+Macedonia	North Macedonia	alias
+Swaziland	Eswatini	alias
+Burma	Myanmar	alias
+UAE	United Arab Emirates	alias
+U.A.E.	United Arab Emirates	alias
+KSA	Saudi Arabia	alias
+Kingdom of Saudi Arabia	Saudi Arabia	alias
+State of Palestine	Palestine	alias
+Alabama	United States	us_state
+Alaska	United States	us_state
+Arizona	United States	us_state
+Arkansas	United States	us_state
+California	United States	us_state
+Colorado	United States	us_state
+Connecticut	United States	us_state
+Delaware	United States	us_state
+Florida	United States	us_state
+Hawaii	United States	us_state
+Idaho	United States	us_state
+Illinois	United States	us_state
+Indiana	United States	us_state
+Iowa	United States	us_state
+Kansas	United States	us_state
+Kentucky	United States	us_state
+Louisiana	United States	us_state
+Maine	United States	us_state
+Maryland	United States	us_state
+Massachusetts	United States	us_state
+Michigan	United States	us_state
+Minnesota	United States	us_state
+Mississippi	United States	us_state
+Missouri	United States	us_state
+Montana	United States	us_state
+Nebraska	United States	us_state
+Nevada	United States	us_state
+New Hampshire	United States	us_state
+New Jersey	United States	us_state
+New Mexico	United States	us_state
+New York	United States	us_state
+North Carolina	United States	us_state
+North Dakota	United States	us_state
+Ohio	United States	us_state
+Oklahoma	United States	us_state
+Oregon	United States	us_state
+Pennsylvania	United States	us_state
+Rhode Island	United States	us_state
+South Carolina	United States	us_state
+South Dakota	United States	us_state
+Tennessee	United States	us_state
+Texas	United States	us_state
+Utah	United States	us_state
+Vermont	United States	us_state
+Virginia	United States	us_state
+Washington	United States	us_state
+West Virginia	United States	us_state
+Wisconsin	United States	us_state
+Wyoming	United States	us_state
+District of Columbia	United States	us_state
+AL	United States	us_state_abbr_after_comma
+AK	United States	us_state_abbr_after_comma
+AZ	United States	us_state_abbr_after_comma
+AR	United States	us_state_abbr_after_comma
+CA	United States	us_state_abbr_after_comma
+CO	United States	us_state_abbr_after_comma
+CT	United States	us_state_abbr_after_comma
+DE	United States	us_state_abbr_after_comma
+FL	United States	us_state_abbr_after_comma
+HI	United States	us_state_abbr_after_comma
+ID	United States	us_state_abbr_after_comma
+IL	United States	us_state_abbr_after_comma
+IN	United States	us_state_abbr_after_comma
+IA	United States	us_state_abbr_after_comma
+KS	United States	us_state_abbr_after_comma
+KY	United States	us_state_abbr_after_comma
+LA	United States	us_state_abbr_after_comma
+ME	United States	us_state_abbr_after_comma
+MD	United States	us_state_abbr_after_comma
+MA	United States	us_state_abbr_after_comma
+MI	United States	us_state_abbr_after_comma
+MN	United States	us_state_abbr_after_comma
+MS	United States	us_state_abbr_after_comma
+MO	United States	us_state_abbr_after_comma
+MT	United States	us_state_abbr_after_comma
+NE	United States	us_state_abbr_after_comma
+NV	United States	us_state_abbr_after_comma
+NH	United States	us_state_abbr_after_comma
+NJ	United States	us_state_abbr_after_comma
+NM	United States	us_state_abbr_after_comma
+NY	United States	us_state_abbr_after_comma
+NC	United States	us_state_abbr_after_comma
+ND	United States	us_state_abbr_after_comma
+OH	United States	us_state_abbr_after_comma
+OK	United States	us_state_abbr_after_comma
+OR	United States	us_state_abbr_after_comma
+PA	United States	us_state_abbr_after_comma
+RI	United States	us_state_abbr_after_comma
+SC	United States	us_state_abbr_after_comma
+SD	United States	us_state_abbr_after_comma
+TN	United States	us_state_abbr_after_comma
+TX	United States	us_state_abbr_after_comma
+UT	United States	us_state_abbr_after_comma
+VT	United States	us_state_abbr_after_comma
+VA	United States	us_state_abbr_after_comma
+WA	United States	us_state_abbr_after_comma
+WV	United States	us_state_abbr_after_comma
+WI	United States	us_state_abbr_after_comma
+WY	United States	us_state_abbr_after_comma
+DC	United States	us_state_abbr_after_comma
+Beijing	China	cn_province
+Tianjin	China	cn_province
+Shanghai	China	cn_province
+Chongqing	China	cn_province
+Hebei	China	cn_province
+Shanxi	China	cn_province
+Liaoning	China	cn_province
+Jilin	China	cn_province
+Heilongjiang	China	cn_province
+Jiangsu	China	cn_province
+Zhejiang	China	cn_province
+Anhui	China	cn_province
+Fujian	China	cn_province
+Jiangxi	China	cn_province
+Shandong	China	cn_province
+Henan	China	cn_province
+Hubei	China	cn_province
+Hunan	China	cn_province
+Guangdong	China	cn_province
+Hainan	China	cn_province
+Sichuan	China	cn_province
+Guizhou	China	cn_province
+Yunnan	China	cn_province
+Shaanxi	China	cn_province
+Gansu	China	cn_province
+Qinghai	China	cn_province
+Inner Mongolia	China	cn_province
+Guangxi	China	cn_province
+Tibet	China	cn_province
+Ningxia	China	cn_province
+Xinjiang	China	cn_province
